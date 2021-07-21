@@ -1,1 +1,1 @@
-34c-326-398-39d-31d-3da-36f-30b-30f-324-341-319-396-380-3ec-3db
+{"version":"Alpha","updatemsg":"Please backup your config before update!","website":"https://github.com/ShenFengDev/xg/edit/master/HWID.txt","updatelog":[{"text":"None","color":{"red":0,"green":255,"blue":0,"alpha":160}}]}
